@@ -20,9 +20,9 @@ I enjoy reading science fiction in my free time. I play ice hockey, tennis, and 
 
 ## Connect with Me
 
-- 📧 [ryan_xhy@outlook.com](mailto:ryan_xhy@outlook.com)
-- [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/Nayr666-del)
+- 📧 [hongyi.xiong@jesus.ox.ac.uk](mailto:hongyi.xiong@jesus.ox.ac.uk)
+- [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0003-0604-1850](https://orcid.org/0000-0003-0604-1850)
+- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png)Ryan Xiong](https://github.com/Nayr666-del)
 
 > “No Banquets are eternal. Everything has an end.”
 
