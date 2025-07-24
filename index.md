@@ -7,7 +7,7 @@ share-title: "Hongyi Xiong - Home"
 share-description: "Pursuing the stars"
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "assets/images/Figure-1.png"
 ---
 
 # About me
