@@ -7,7 +7,7 @@ share-title: "Hongyi Xiong - Home"
 share-description: "Pursuing the stars"
 support-promo-box: true
 cover-img:
-    - "assets/images/Figure-1.png"
+    - "assets/images/LossAndKick-Lightcurve.png"
 ---
 
 # About me
