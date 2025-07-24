@@ -1,10 +1,10 @@
 ---
 layout: home
 
-title: "Hypatia of Alexandria"
-subtitle: Astronomer, Philosopher, Mathematician
-share-title: "Hypatia of Alexandria - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+title: "Hongyi Xiong"
+subtitle: Physicist
+share-title: "Hongyi Xiong - Home"
+share-description: "Pursuing the stars"
 support-promo-box: true
 cover-img:
     - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
