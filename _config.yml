@@ -50,10 +50,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hypatia.alexandria@ista.ac.at"
+  email: "hongyi.xiong@jesus.ox.ac.uk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: hypatiarules
-  github: hypatiarules
+  github: Nayr666-del
 # twitter: xx
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -96,7 +96,7 @@ plugins:
   - jekyll-feed
   
   
-keywords: "astronomy,philosophy,mathematics,galaxies,hypatia,astrolabe"
+keywords: "astronomy,astrophysics,accretion,hydrodynamics,numerical simulations"
 
 
 
